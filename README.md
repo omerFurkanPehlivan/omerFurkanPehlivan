@@ -1,4 +1,10 @@
-### Hi there 👋
+# About me
+
+---
+
+Hi, everyone!
+
+My name is Ömer Furkan Pehlivan. I am a Computer Engineering student at Yıldız Technical University.
 
 <!--
 **omerFurkanPehlivan/omerFurkanPehlivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
